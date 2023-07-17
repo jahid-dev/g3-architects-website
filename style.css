@@ -1,5 +1,9 @@
+/* Shared Styles */
 * {
   font-family: "Work Sans", sans-serif;
+}
+.btn-primary{
+    
 }
 
 /* Header styles */
@@ -36,4 +40,12 @@ nav li a{
     max-width: 800px;
     text-align: center;
     margin: 0 auto;
+}
+.banner-title{
+    font-size: 4rem;
+    font-weight: 700;
+    color: #131313;
+}
+.banner-description{
+    color:#727272 ;  
 }
